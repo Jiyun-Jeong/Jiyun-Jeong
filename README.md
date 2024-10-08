@@ -15,3 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Jiyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jiyun-Jeong&show_icons=true&theme=highcontrast)
+
+<h3 align="left">Connect with me:</h3>
+<div align="left">
+  <a href="#" target="blank" title="open new window"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30" width="40" /></a>
+</div>
